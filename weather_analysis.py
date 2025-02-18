@@ -127,8 +127,8 @@ def main():
     db_params = {
 		'dbname': 'system_climasim_db',
 		'user': 'system_climasim_user',
-		'password': '',
-		'host': '192.168.0.127'
+		'password': 'oj#?[%P86gh;9LXx',
+		'host': '200.195.157.154'
     }
     
     # Carrega dados
